@@ -1,0 +1,10 @@
+{
+  "uuid": "12f1071e-7be4-4112-b79b-481448806ee2",
+  "issue_uuid": "5942bcfd-fe8b-46e7-a58f-24295dbdde7f",
+  "author": "claude-code",
+  "content": "All open questions resolved. Design fully locked. session-start.py: already idempotent, no change needed. Kickoff isolation: non-issue -- .agents/ lives in working tree, each worktree gets its own copy automatically. Kickoff Phase 2 will be simpler than Claude Code's CLAUDE_CONFIG_DIR approach. Design at .design/antigravity-runtime-support.md is ready to hand to implementation agent.",
+  "created_at": "2026-05-30T22:48:06.572937Z",
+  "kind": "resolution",
+  "signed_by": "SHA256:LqkL/0CvALu2TPuYWK/h/isglwHCqIbZOWBROD5QF1w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgCzewrOpyvTpsk5wG6c674S4+B8X1NvB40bwXgFmcA4YAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAhbWSenLJCK21erFvmb75gTsmf4LdGfZj/rCdjoR8YaYue1HnsWEGj7MgUuEwgbhPry7v8SX+fWGPbwK5PfX6CA=="
+}
