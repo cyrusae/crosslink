@@ -1,0 +1,10 @@
+{
+  "uuid": "d4894c9d-0c4f-4744-974b-686bdc664324",
+  "issue_uuid": "5942bcfd-fe8b-46e7-a58f-24295dbdde7f",
+  "author": "claude-code",
+  "content": "Design document written at .design/antigravity-runtime-support.md. Key decisions: AgentRuntime enum (Claude/Antigravity/Both), --runtime flag on crosslink init, shared Python hook scripts in .agents/hooks/ invoked via hooks.json, mcp_config.json at project root, AGENTS.md with marker-based merge. Phase 1 = init command. Phase 2 = kickoff (blocked on CLAUDE_CONFIG_DIR equivalent research). Open Q: exact hooks.json schema field names need validation via agy inspect.",
+  "created_at": "2026-05-30T22:33:18.961387Z",
+  "kind": "decision",
+  "signed_by": "SHA256:LqkL/0CvALu2TPuYWK/h/isglwHCqIbZOWBROD5QF1w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgCzewrOpyvTpsk5wG6c674S4+B8X1NvB40bwXgFmcA4YAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABArb+EB3eRL7sdJRH/tkvx2+ir6XmWcvRN9VqLUP5URv7Tc9a78SYlis260xmRPG6pyk9rsLXi0bmMTin5sWiCDA=="
+}
