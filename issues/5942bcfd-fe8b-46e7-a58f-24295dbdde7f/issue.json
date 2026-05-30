@@ -6,5 +6,8 @@
   "priority": "high",
   "created_by": "claude-code",
   "created_at": "2026-05-30T22:30:17.693098Z",
-  "updated_at": "2026-05-30T22:30:17.693098Z"
+  "updated_at": "2026-05-30T22:30:18.614760Z",
+  "labels": [
+    "feature"
+  ]
 }
