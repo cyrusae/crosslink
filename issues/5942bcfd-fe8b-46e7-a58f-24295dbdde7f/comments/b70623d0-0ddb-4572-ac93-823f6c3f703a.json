@@ -1,0 +1,10 @@
+{
+  "uuid": "b70623d0-0ddb-4572-ac93-823f6c3f703a",
+  "issue_uuid": "5942bcfd-fe8b-46e7-a58f-24295dbdde7f",
+  "author": "claude-code",
+  "content": "Hooks schema confirmed from live agy wizard output. Key findings: (1) Named top-level objects with 'enabled' flag — merge strategy = upsert 'crosslink' key, trivial. (2) Events: PreInvocation (≈UserPromptSubmit+SessionStart), PostInvocation, PreToolUse, PostToolUse, Stop — same matcher/command/timeout fields as Claude Code settings.json. (3) heartbeat.py fully supported via PostToolUse. (4) session-start.py needs idempotency check (fires on every PreInvocation, not just once). Design doc updated to ready-for-implementation status.",
+  "created_at": "2026-05-30T22:45:12.026475Z",
+  "kind": "resolution",
+  "signed_by": "SHA256:LqkL/0CvALu2TPuYWK/h/isglwHCqIbZOWBROD5QF1w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgCzewrOpyvTpsk5wG6c674S4+B8X1NvB40bwXgFmcA4YAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA/2bPX4DQ02uqqOORF0q4a/HGlk2C5bnwER8/bDX48HQRd6g4saLemG2U/4m2jg+/DIPupuL5myunae6fPUA4CQ=="
+}
