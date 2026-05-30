@@ -1,0 +1,10 @@
+{
+  "uuid": "0c5145a5-d5bd-421e-a7b9-ecdee4b33b82",
+  "issue_uuid": "5942bcfd-fe8b-46e7-a58f-24295dbdde7f",
+  "author": "claude-code",
+  "content": "Research complete. Antigravity CLI (agy) has a parallel architecture to Claude Code: AGENTS.md, .agents/ dir, JSON hooks (session_start/before_tool_call/after_file_edit), mcp_config.json, and --dangerously-skip-permissions flag. Key unknowns: (1) exact JSON hook schema, (2) CLAUDE_CONFIG_DIR equivalent for worktree isolation. Plan: start with init command to write .agents/ alongside .claude/, then extend kickoff.",
+  "created_at": "2026-05-30T22:30:32.972224Z",
+  "kind": "plan",
+  "signed_by": "SHA256:LqkL/0CvALu2TPuYWK/h/isglwHCqIbZOWBROD5QF1w",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgCzewrOpyvTpsk5wG6c674S4+B8X1NvB40bwXgFmcA4YAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAFZRZJKQQgyavkVPeREf3HOPdVIsAJs0MOcvLOExWgv5GwkggKtS3TgfgMCtv8OMqP/DF//uuL/41AcAzKsDOBQ=="
+}
