@@ -1,0 +1,8 @@
+{
+  "uuid": "a2d4407d-92c4-40e3-a059-b5221128c7cc",
+  "issue_uuid": "f0a9a9be-1939-4393-85ed-bef789885aaa",
+  "author": "z7wo",
+  "content": "Plan: Add Gemini model pricing to crosslink/src/token_usage.rs. Extend get_pricing() with Gemini model patterns (gemini-2.5-pro, gemini-2.5-flash, gemini-2.0-flash, gemini-1.5-pro, gemini-1.5-flash). Use contains() matching like Claude entries. Add cache_read pricing where Google documents it. Add test cases for each new model. No structural changes needed.",
+  "created_at": "2026-05-31T07:46:04.411623Z",
+  "kind": "plan"
+}
