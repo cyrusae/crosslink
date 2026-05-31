@@ -67,10 +67,6 @@
       "agent_id": "dashboard-bootstrap",
       "claimed_at": "2026-05-18T12:24:44.096690959Z"
     },
-    "751": {
-      "agent_id": "claude-code",
-      "claimed_at": "2026-05-31T07:44:04.556802Z"
-    },
     "752": {
       "agent_id": "claude-code",
       "claimed_at": "2026-05-31T07:44:12.037093Z"
@@ -317,11 +313,16 @@
       "agent_id": "z7wo",
       "agent_seq": 6,
       "timestamp": "2026-05-31T07:59:52.839330Z"
+    },
+    {
+      "agent_id": "claude-code",
+      "agent_seq": 8,
+      "timestamp": "2026-05-31T17:25:08.349551Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T07:59:52.839330Z",
-    "agent_id": "z7wo",
-    "agent_seq": 6
+    "timestamp": "2026-05-31T17:25:08.349551Z",
+    "agent_id": "claude-code",
+    "agent_seq": 8
   }
 }
