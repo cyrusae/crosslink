@@ -1,0 +1,8 @@
+{
+  "uuid": "67d6b22e-11e5-4403-9d9c-cbd89ed7aecc",
+  "issue_uuid": "5942bcfd-fe8b-46e7-a58f-24295dbdde7f",
+  "author": "NrR1",
+  "content": "Plan: Add AgentRuntime enum (Claude/Antigravity/Both) to init/mod.rs, add --runtime flag to CLI, create resources/antigravity/ with hooks.json/mcp_config.json/skills/, extend build.rs for skills_gen.rs, add write_hooks_json_merged/write_agents_md functions to merge.rs, extend GITIGNORE_MANAGED_SECTION with .agents/ entries, extend managed_files/run() for antigravity, extend workflow.rs and style.rs for agy paths, add tests. Kickoff phase only (not kickoff launch).",
+  "created_at": "2026-05-31T03:51:43.649115Z",
+  "kind": "plan"
+}
