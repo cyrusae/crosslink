@@ -253,11 +253,16 @@
       "agent_id": "NrR1",
       "agent_seq": 3,
       "timestamp": "2026-05-31T04:53:13.612221Z"
+    },
+    {
+      "agent_id": "NrR1",
+      "agent_seq": 4,
+      "timestamp": "2026-05-31T04:53:15.329641Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T04:53:13.612221Z",
+    "timestamp": "2026-05-31T04:53:15.329641Z",
     "agent_id": "NrR1",
-    "agent_seq": 3
+    "agent_seq": 4
   }
 }
