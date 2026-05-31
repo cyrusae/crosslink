@@ -1,0 +1,8 @@
+{
+  "uuid": "dfd23b8b-c037-4a0c-87dc-836dcd56d488",
+  "issue_uuid": "5942bcfd-fe8b-46e7-a58f-24295dbdde7f",
+  "author": "NrR1",
+  "content": "Result: Delivered full AgentRuntime support for Antigravity CLI. crosslink init --runtime antigravity|both now writes .agents/hooks/, .agents/skills/, .agents/mcp/, .agents/hooks.json (merged), mcp_config.json (merged), AGENTS.md (marker-idempotent). Build.rs generates skills_gen.rs. workflow diff shows .agents/ drift. style.rs has agy-hooks/skills path mappings. 13 new passing tests. 4 pre-existing TUI async test failures are unrelated to this change. Kickoff --runtime support deferred to Phase 2 per design doc.",
+  "created_at": "2026-05-31T05:45:33.633810Z",
+  "kind": "result"
+}
