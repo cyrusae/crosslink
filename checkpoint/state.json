@@ -228,11 +228,16 @@
       "agent_id": "claude-code",
       "agent_seq": 4,
       "timestamp": "2026-05-31T03:45:53.477377Z"
+    },
+    {
+      "agent_id": "UDZR",
+      "agent_seq": 1,
+      "timestamp": "2026-05-31T03:48:16.022925Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T03:45:53.477377Z",
-    "agent_id": "claude-code",
-    "agent_seq": 4
+    "timestamp": "2026-05-31T03:48:16.022925Z",
+    "agent_id": "UDZR",
+    "agent_seq": 1
   }
 }
