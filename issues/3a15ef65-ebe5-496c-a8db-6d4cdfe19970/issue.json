@@ -1,0 +1,10 @@
+{
+  "uuid": "3a15ef65-ebe5-496c-a8db-6d4cdfe19970",
+  "display_id": 752,
+  "title": "Add kickoff --runtime antigravity support (build_agy_command in launch.rs)",
+  "status": "open",
+  "priority": "medium",
+  "created_by": "claude-code",
+  "created_at": "2026-05-31T07:44:07.151905Z",
+  "updated_at": "2026-05-31T07:44:07.151905Z"
+}
