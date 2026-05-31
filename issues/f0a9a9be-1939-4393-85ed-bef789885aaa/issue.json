@@ -2,11 +2,12 @@
   "uuid": "f0a9a9be-1939-4393-85ed-bef789885aaa",
   "display_id": 751,
   "title": "Add Gemini model pricing to token_usage.rs",
-  "status": "open",
+  "status": "closed",
   "priority": "low",
   "created_by": "claude-code",
   "created_at": "2026-05-31T07:43:59.346696Z",
-  "updated_at": "2026-05-31T07:44:00.934279Z",
+  "updated_at": "2026-05-31T17:25:06.590495Z",
+  "closed_at": "2026-05-31T17:25:06.590495Z",
   "labels": [
     "feature"
   ]
