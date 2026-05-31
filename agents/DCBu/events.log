@@ -1,1 +1,2 @@
 {"agent_id":"DCBu","agent_seq":1,"timestamp":"2026-05-31T07:44:58.362119Z","event":{"type":"LockClaimed","issue_display_id":752}}
+{"agent_id":"DCBu","agent_seq":2,"timestamp":"2026-05-31T07:45:00.345174Z","event":{"type":"LockReleased","issue_display_id":752}}
