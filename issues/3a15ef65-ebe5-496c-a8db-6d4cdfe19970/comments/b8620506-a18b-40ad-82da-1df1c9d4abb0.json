@@ -1,0 +1,8 @@
+{
+  "uuid": "b8620506-a18b-40ad-82da-1df1c9d4abb0",
+  "issue_uuid": "3a15ef65-ebe5-496c-a8db-6d4cdfe19970",
+  "author": "DCBu",
+  "content": "Committed: feat(kickoff): add --runtime antigravity (agy) support to kickoff run [CL-752] | Files: 9 files changed, 294 insertions(+), 22 deletions(-)",
+  "created_at": "2026-05-31T08:24:02.254686Z",
+  "kind": "result"
+}
