@@ -1,1 +1,2 @@
 {"agent_id":"z7wo","agent_seq":1,"timestamp":"2026-05-31T07:44:52.551549Z","event":{"type":"LockClaimed","issue_display_id":751}}
+{"agent_id":"z7wo","agent_seq":2,"timestamp":"2026-05-31T07:44:54.302476Z","event":{"type":"LockReleased","issue_display_id":751}}
