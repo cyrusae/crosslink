@@ -3,3 +3,4 @@
 {"agent_id":"z7wo","agent_seq":3,"timestamp":"2026-05-31T07:59:29.365880Z","event":{"type":"LockClaimed","issue_display_id":751}}
 {"agent_id":"z7wo","agent_seq":4,"timestamp":"2026-05-31T07:59:33.248533Z","event":{"type":"LockReleased","issue_display_id":751}}
 {"agent_id":"z7wo","agent_seq":5,"timestamp":"2026-05-31T07:59:48.394040Z","event":{"type":"LockClaimed","issue_display_id":751}}
+{"agent_id":"z7wo","agent_seq":6,"timestamp":"2026-05-31T07:59:52.839330Z","event":{"type":"LockReleased","issue_display_id":751}}
