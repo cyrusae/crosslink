@@ -307,11 +307,16 @@
       "agent_id": "z7wo",
       "agent_seq": 4,
       "timestamp": "2026-05-31T07:59:33.248533Z"
+    },
+    {
+      "agent_id": "z7wo",
+      "agent_seq": 5,
+      "timestamp": "2026-05-31T07:59:48.394040Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T07:59:33.248533Z",
+    "timestamp": "2026-05-31T07:59:48.394040Z",
     "agent_id": "z7wo",
-    "agent_seq": 4
+    "agent_seq": 5
   }
 }
