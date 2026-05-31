@@ -66,10 +66,6 @@
     "746": {
       "agent_id": "dashboard-bootstrap",
       "claimed_at": "2026-05-18T12:24:44.096690959Z"
-    },
-    "750": {
-      "agent_id": "claude-code",
-      "claimed_at": "2026-05-31T03:45:53.477377Z"
     }
   },
   "issues": {},
@@ -258,11 +254,16 @@
       "agent_id": "NrR1",
       "agent_seq": 4,
       "timestamp": "2026-05-31T04:53:15.329641Z"
+    },
+    {
+      "agent_id": "claude-code",
+      "agent_seq": 5,
+      "timestamp": "2026-05-31T07:43:36.486479Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T04:53:15.329641Z",
-    "agent_id": "NrR1",
-    "agent_seq": 4
+    "timestamp": "2026-05-31T07:43:36.486479Z",
+    "agent_id": "claude-code",
+    "agent_seq": 5
   }
 }
