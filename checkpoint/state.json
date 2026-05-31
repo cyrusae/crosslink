@@ -3,10 +3,6 @@
   "next_comment_id": 1,
   "display_id_map": {},
   "locks": {
-    "-4": {
-      "agent_id": "claude-code",
-      "claimed_at": "2026-05-31T03:42:20.517310Z"
-    },
     "727": {
       "agent_id": "dashboard-bootstrap",
       "claimed_at": "2026-05-04T19:33:42.476240723Z"
@@ -319,11 +315,16 @@
       "agent_id": "claude-code",
       "agent_seq": 9,
       "timestamp": "2026-05-31T17:25:12.803680Z"
+    },
+    {
+      "agent_id": "claude-code",
+      "agent_seq": 10,
+      "timestamp": "2026-05-31T18:59:19.145704Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T17:25:12.803680Z",
+    "timestamp": "2026-05-31T18:59:19.145704Z",
     "agent_id": "claude-code",
-    "agent_seq": 9
+    "agent_seq": 10
   }
 }
