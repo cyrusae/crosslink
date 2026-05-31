@@ -297,11 +297,16 @@
       "agent_id": "DCBu",
       "agent_seq": 2,
       "timestamp": "2026-05-31T07:45:00.345174Z"
+    },
+    {
+      "agent_id": "z7wo",
+      "agent_seq": 3,
+      "timestamp": "2026-05-31T07:59:29.365880Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T07:45:00.345174Z",
-    "agent_id": "DCBu",
-    "agent_seq": 2
+    "timestamp": "2026-05-31T07:59:29.365880Z",
+    "agent_id": "z7wo",
+    "agent_seq": 3
   }
 }
