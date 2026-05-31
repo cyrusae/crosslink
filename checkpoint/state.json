@@ -277,11 +277,16 @@
       "agent_id": "claude-code",
       "agent_seq": 7,
       "timestamp": "2026-05-31T07:44:12.037093Z"
+    },
+    {
+      "agent_id": "z7wo",
+      "agent_seq": 1,
+      "timestamp": "2026-05-31T07:44:52.551549Z"
     }
   ],
   "watermark": {
-    "timestamp": "2026-05-31T07:44:12.037093Z",
-    "agent_id": "claude-code",
-    "agent_seq": 7
+    "timestamp": "2026-05-31T07:44:52.551549Z",
+    "agent_id": "z7wo",
+    "agent_seq": 1
   }
 }
