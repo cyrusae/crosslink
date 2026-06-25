@@ -1,5 +1,12 @@
 [
   {
+    "agent_id": "claude-code",
+    "event_description": "LockReleased(#-4)",
+    "event_timestamp": "2026-05-31T18:59:19.145704Z",
+    "commit_timestamp": "2026-05-31T19:00:55Z",
+    "skew_seconds": 95
+  },
+  {
     "agent_id": "dashboard-bootstrap",
     "event_description": "LockReleased(#744)",
     "event_timestamp": "2026-05-15T18:33:38.013516724Z",
