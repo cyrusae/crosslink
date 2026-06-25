@@ -6,5 +6,8 @@
   "priority": "medium",
   "created_by": "claude-code",
   "created_at": "2026-06-25T21:29:03.463965Z",
-  "updated_at": "2026-06-25T21:29:03.463965Z"
+  "updated_at": "2026-06-25T21:29:05.707745Z",
+  "labels": [
+    "chore"
+  ]
 }
